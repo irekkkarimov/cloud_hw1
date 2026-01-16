@@ -5,7 +5,7 @@ tg_bot_key        = "id тг бота"
 
 2. Создать сервисный аккаунт в yandex cloud, создать авторизованный ключ и в виде файла сохранить по пути: "~/.yc-keys/key.json"
 
-3. Прописать по очереди:
-   terraform init
-   terraform plan
+3. Прописать по очереди:\
+   terraform init\
+   terraform plan\
    terraform apply (yes)
